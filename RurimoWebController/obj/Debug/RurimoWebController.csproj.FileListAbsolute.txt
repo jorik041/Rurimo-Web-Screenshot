@@ -1,0 +1,39 @@
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe.config
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.pdb
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.Form1.resources
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.exe
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.pdb
+C:\Users\Skydoves\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csprojResolveAssemblyReference.cache
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe.config
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.exe
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.pdb
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.pdb
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csprojResolveAssemblyReference.cache
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.MainForm.resources
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.Properties.Resources.resources
+C:\Users\coscoi\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe.config
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.exe
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.pdb
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.pdb
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csprojResolveAssemblyReference.cache
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.MainForm.resources
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\Projects\visual studio\루리모 소프트\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csproj.GenerateResource.Cache
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe.config
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.exe
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.pdb
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.exe
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\bin\Debug\RurimoWebController.pdb
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csprojResolveAssemblyReference.cache
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.MainForm.resources
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.Properties.Resources.resources
+C:\Users\magician\Desktop\RurimoWebController\RurimoWebController\obj\Debug\RurimoWebController.csproj.GenerateResource.Cache
+C:\Users\magician\Desktop\Rurimo-Web-Screenshot\RurimoWebController\bin\Debug\RurimoWebController.exe.config
+C:\Users\magician\Desktop\Rurimo-Web-Screenshot\RurimoWebController\obj\Debug\RurimoWebController.exe
+C:\Users\magician\Desktop\Rurimo-Web-Screenshot\RurimoWebController\obj\Debug\RurimoWebController.pdb
